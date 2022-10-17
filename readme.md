@@ -8,7 +8,7 @@ This project's frontend is built using [ReactJS](https://facebook.github.io/reac
 
 Note: Spring Boot Server App must be running before starting the client!
 
-To start the server, launch a Terminal and run from the project's root folder (`spring-petclinic`):
+To start the server, launch a Terminal and run from the project's root folder (`pet-clinic`):
 ```
 ./mvnw spring-boot:run
 ```

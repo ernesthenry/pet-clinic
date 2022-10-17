@@ -31,8 +31,8 @@ After starting the server you can install and run the client from the `client` f
 
 ## Running petclinic locally
 ```
-	git clone https://github.com/ernesthenry/spring-petclinic.git
-	cd spring-petclinic
+	git clone https://github.com/ernesthenry/pet-clinic.git
+	cd pet-clinic
 	git checkout main
 	./mvnw spring-boot:run
 ```
